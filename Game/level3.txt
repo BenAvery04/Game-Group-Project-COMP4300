@@ -1,0 +1,1529 @@
+Level 3
+Dec Floor 0 0
+Dec Floor -1 0
+Dec Floor -1 -1
+Dec Floor 0 -1
+Dec Floor 1 -1
+Dec Floor 1 0
+Dec Floor 1 1
+Dec Floor 0 1
+Dec Floor -1 1
+Dec Floor -1 2
+Dec Floor 0 2
+Dec Floor 1 2
+Dec Floor 2 2
+Dec Floor 2 1
+Dec Floor 2 0
+Dec Floor 2 -1
+Dec Floor 2 -2
+Dec Floor 1 -2
+Dec Floor 0 -2
+Dec Floor -1 -2
+Dec Floor -2 -2
+Dec Floor -2 -1
+Dec Floor -2 0
+Dec Floor -2 1
+Dec Floor -2 2
+Dec Floor -2 3
+Dec Floor -3 2
+Dec Floor -3 1
+Dec Floor -3 0
+Dec Floor -3 -1
+Dec Floor -3 -2
+Dec Floor -2 -3
+Dec Floor -1 -3
+Dec Floor 0 -3
+Dec Floor 1 -3
+Dec Floor 2 -3
+Dec Floor 3 -2
+Dec Floor 3 -1
+Dec Floor 3 0
+Dec Floor 3 1
+Dec Floor 3 2
+Dec Floor 2 3
+Dec Floor 1 3
+Dec Floor 0 3
+Dec Floor -1 3
+Tile Crate 3 -3 1 0 1 0
+Tile Crate 3 3 1 0 1 0
+Tile Crate -3 3 1 0 1 0
+Tile Crate -3 -3 1 0 1 0
+Dec Floor -1 4
+Dec Floor 0 4
+Dec Floor 1 4
+Dec Floor 1 5
+Dec Floor 0 5
+Dec Floor -1 5
+Dec Floor -1 6
+Dec Floor 0 6
+Dec Floor 1 6
+Dec Floor -4 1
+Dec Floor -4 0
+Dec Floor -4 -1
+Dec Floor -5 -1
+Dec Floor -5 0
+Dec Floor -5 1
+Dec Floor -1 -4
+Dec Floor -1 -5
+Dec Floor 0 -5
+Dec Floor 0 -4
+Dec Floor 1 -4
+Dec Floor 1 -5
+Dec Floor 4 -1
+Dec Floor 4 0
+Dec Floor 4 1
+Dec Floor 5 -1
+Dec Floor 5 0
+Dec Floor 5 1
+Tile Wall 5 2 1 1 1 0
+Tile Wall 4 2 1 1 1 0
+Tile Wall 4 3 1 1 1 0
+Tile Wall 4 4 1 1 1 0
+Tile Wall 3 4 1 1 1 0
+Tile Wall 2 4 1 1 1 0
+Tile Wall -2 4 1 1 1 0
+Tile Wall -3 4 1 1 1 0
+Tile Wall -4 4 1 1 1 0
+Tile Wall -4 3 1 1 1 0
+Tile Wall -4 2 1 1 1 0
+Tile Wall -5 2 1 1 1 0
+Tile Wall -5 -2 1 1 1 0
+Tile Wall -4 -2 1 1 1 0
+Tile Wall -4 -3 1 1 1 0
+Tile Wall -4 -4 1 1 1 0
+Tile Wall -3 -4 1 1 1 0
+Tile Wall -2 -4 1 1 1 0
+Tile Wall -2 -5 1 1 1 0
+Tile Wall 2 -5 1 1 1 0
+Tile Wall 2 -4 1 1 1 0
+Tile Wall 3 -4 1 1 1 0
+Tile Wall 4 -4 1 1 1 0
+Tile Wall 4 -3 1 1 1 0
+Tile Wall 4 -2 1 1 1 0
+Tile Wall 5 -2 1 1 1 0
+Tile Wall 2 5 1 1 1 0
+Tile Wall 2 6 1 1 1 0
+Tile Wall -2 5 1 1 1 0
+Tile Wall -2 6 1 1 1 0
+Tile HealthPack -4 0 0 0 0 0
+Tile HealthPack 0 -4 0 0 0 0
+Tile HealthPack 4 0 0 0 0 0
+Tile HealthPack 0 4 0 0 0 0
+Tile Wall -2 7 1 1 1 0
+Tile Wall -2 8 1 1 1 0
+Tile Wall -2 9 1 1 1 0
+Tile Wall -2 10 1 1 1 0
+Tile Wall -2 11 1 1 1 0
+Tile Wall 2 7 1 1 1 0
+Tile Wall 2 8 1 1 1 0
+Tile Wall 2 9 1 1 1 0
+Tile Wall 2 10 1 1 1 0
+Tile Wall 2 11 1 1 1 0
+Tile Wall -1 14 1 1 1 0
+Tile Wall 0 14 1 1 1 0
+Tile Wall 1 14 1 1 1 0
+Tile Wall -2 14 1 1 1 0
+Tile Wall 2 14 1 1 1 0
+Tile Wall -3 11 1 1 1 0
+Tile Wall -4 11 1 1 1 0
+Tile Wall -5 11 1 1 1 0
+Tile Wall -6 11 1 1 1 0
+Tile Wall -7 11 1 1 1 0
+Tile Wall -7 12 1 1 1 0
+Tile Wall -7 13 1 1 1 0
+Tile Wall -7 14 1 1 1 0
+Tile Wall -7 15 1 1 1 0
+Tile Wall -7 16 1 1 1 0
+Tile Wall -7 17 1 1 1 0
+Tile Wall -5 21 1 1 1 0
+Tile Wall -4 21 1 1 1 0
+Tile Wall -3 21 1 1 1 0
+Tile Wall -2 21 1 1 1 0
+Tile Wall -1 21 1 1 1 0
+Tile Wall 0 21 1 1 1 0
+Tile Wall 1 21 1 1 1 0
+Tile Wall 2 21 1 1 1 0
+Tile Wall 3 11 1 1 1 0
+Tile Wall 4 11 1 1 1 0
+Tile Wall 5 11 1 1 1 0
+Tile Wall 3 21 1 1 1 0
+Tile Wall 4 21 1 1 1 0
+Tile Wall 6 11 1 1 1 0
+Tile Wall 7 11 1 1 1 0
+Tile Wall 8 11 1 1 1 0
+Tile Wall 8 12 1 1 1 0
+Tile Wall 8 13 1 1 1 0
+Tile Wall 8 14 1 1 1 0
+Tile Wall 8 15 1 1 1 0
+Tile Wall 8 16 1 1 1 0
+Tile Wall 8 17 1 1 1 0
+Tile Wall 8 18 1 1 1 0
+Tile Wall 8 19 1 1 1 0
+Tile Wall 8 20 1 1 1 0
+Tile Wall 8 21 1 1 1 0
+Tile Wall 8 22 1 1 1 0
+Tile Wall 4 22 1 1 1 0
+Tile Pit -4 17 0 0 0 0
+Tile Pit -4 16 0 0 0 0
+Tile Pit -3 17 0 0 0 0
+Tile Pit 1 19 0 0 0 0
+Tile Pit 1 18 0 0 0 0
+Tile Pit 2 18 0 0 0 0
+Tile Pit 5 16 0 0 0 0
+Dec Floor 4 16
+Dec Floor 3 16
+Dec Floor 2 16
+Dec Floor 1 16
+Dec Floor -1 16
+Dec Floor -2 16
+Dec Floor -3 16
+Dec Floor -3 15
+Dec Floor -2 15
+Dec Floor -1 15
+Dec Floor 0 15
+Dec Floor 1 15
+Dec Floor 2 15
+Dec Floor 3 15
+Dec Floor 4 15
+Dec Floor 4 17
+Dec Floor 3 17
+Dec Floor 2 17
+Dec Floor 1 17
+Dec Floor 0 17
+Dec Floor -1 17
+Dec Floor -2 17
+Dec Floor 0 18
+Dec Floor -1 18
+Dec Floor -2 18
+Dec Floor -3 18
+Dec Floor -4 18
+Dec Floor -5 18
+Dec Floor -6 18
+Dec Floor -6 19
+Dec Floor -5 19
+Dec Floor -3 19
+Dec Floor -2 19
+Dec Floor -1 19
+Dec Floor 0 19
+Tile Crate 0 16 1 0 1 0
+Tile Crate -4 19 1 0 1 0
+Tile Crate -5 14 1 0 1 0
+Tile Crate 3 14 1 0 1 0
+Tile Crate 4 20 1 0 1 0
+Dec Floor 4 18
+Dec Floor 3 18
+Dec Floor 3 19
+Dec Floor 2 19
+Dec Floor 3 20
+Dec Floor 2 20
+Dec Floor 1 20
+Dec Floor 0 20
+Dec Floor -1 20
+Dec Floor -2 20
+Dec Floor -3 20
+Dec Floor -4 20
+Dec Floor -5 20
+Dec Floor -6 20
+Dec Floor 4 19
+Dec Floor -5 17
+Dec Floor -5 16
+Dec Floor -5 15
+Dec Floor -6 17
+Dec Floor -6 16
+Dec Floor -6 15
+Dec Floor -6 14
+Dec Floor -6 13
+Dec Floor -6 12
+Dec Floor -5 12
+Dec Floor -5 13
+Dec Floor -4 12
+Dec Floor -4 13
+Dec Floor -4 14
+Dec Floor -4 15
+Dec Floor -3 14
+Dec Floor -3 13
+Dec Floor -3 12
+Dec Floor -2 12
+Dec Floor -1 12
+Dec Floor 0 12
+Dec Floor 1 12
+Dec Floor 2 12
+Dec Floor 3 12
+Dec Floor 3 13
+Dec Floor 2 13
+Dec Floor 1 13
+Dec Floor 0 13
+Dec Floor -1 13
+Dec Floor -2 13
+Dec Floor 4 14
+Dec Floor 5 14
+Dec Floor 6 14
+Dec Floor 7 14
+Dec Floor 6 15
+Dec Floor 5 15
+Dec Floor 7 15
+Dec Floor 7 13
+Dec Floor 7 12
+Dec Floor 6 12
+Dec Floor 5 12
+Dec Floor 4 12
+Dec Floor 4 13
+Dec Floor 5 13
+Dec Floor 6 13
+Dec Floor 6 16
+Dec Floor 7 16
+Dec Floor 7 17
+Dec Floor 6 17
+Dec Floor 5 17
+Dec Floor 5 18
+Dec Floor 6 18
+Dec Floor 7 18
+Dec Floor 7 19
+Dec Floor 6 19
+Dec Floor 5 19
+Dec Floor 5 20
+Dec Floor 6 20
+Dec Floor 7 20
+Dec Floor 7 21
+Dec Floor 6 21
+Dec Floor 5 21
+Dec Floor 5 22
+Dec Floor 6 22
+Dec Floor 7 22
+Dec Floor -1 8
+Dec Floor -1 9
+Dec Floor -1 10
+Dec Floor -1 11
+Dec Floor 0 7
+Dec Floor 0 8
+Dec Floor 0 9
+Dec Floor 0 10
+Dec Floor 0 11
+Dec Floor 1 7
+Dec Floor 1 8
+Dec Floor 1 10
+Dec Floor 1 11
+Tile Pit 1 9 0 0 0 0
+Tile Pit -1 7 0 0 0 0
+Tile Booster -5 18 0 0 0 0
+Tile Pit 5 23 0 0 0 0
+Tile Pit 6 23 0 0 0 0
+Tile Pit 7 23 0 0 0 0
+Tile Pit 7 24 0 0 0 0
+Tile Pit 6 24 0 0 0 0
+Tile Pit 5 24 0 0 0 0
+Tile Pit 5 25 0 0 0 0
+Tile Pit 6 25 0 0 0 0
+Tile Pit 7 25 0 0 0 0
+Tile Pit 7 26 0 0 0 0
+Tile Pit 6 26 0 0 0 0
+Tile Pit 5 26 0 0 0 0
+Tile Pit 5 27 0 0 0 0
+Tile Pit 6 27 0 0 0 0
+Tile Pit 7 27 0 0 0 0
+Dec Floor 7 28
+Dec Floor 7 29
+Dec Floor 7 30
+Dec Floor 6 30
+Dec Floor 5 30
+Dec Floor 4 30
+Dec Floor 3 30
+Dec Floor 6 28
+Dec Floor 5 28
+Dec Floor 4 28
+Dec Floor 3 28
+Dec Floor 2 28
+Dec Floor 1 28
+Dec Floor 6 29
+Dec Floor 5 29
+Dec Floor 4 29
+Dec Floor 3 29
+Dec Floor 2 29
+Dec Floor 1 29
+Tile Pit 4 27 0 0 0 0
+Tile Pit 3 27 0 0 0 0
+Tile Pit 2 27 0 0 0 0
+Tile Pit 1 27 0 0 0 0
+Tile Pit 0 27 0 0 0 0
+Tile Pit 1 26 0 0 0 0
+Tile Pit 2 26 0 0 0 0
+Tile Pit 3 26 0 0 0 0
+Tile Pit 4 26 0 0 0 0
+Tile Pit 4 25 0 0 0 0
+Tile Pit 3 25 0 0 0 0
+Tile Pit 2 25 0 0 0 0
+Tile Pit 1 25 0 0 0 0
+Tile Pit 1 24 0 0 0 0
+Tile Pit 2 24 0 0 0 0
+Tile Pit 3 24 0 0 0 0
+Tile Pit 4 24 0 0 0 0
+Tile Pit 4 23 0 0 0 0
+Tile Pit 3 23 0 0 0 0
+Tile Pit 2 23 0 0 0 0
+Tile Pit 1 23 0 0 0 0
+Tile Wall 8 23 1 1 1 0
+Tile Wall 8 24 1 1 1 0
+Tile Wall 8 25 1 1 1 0
+Tile Wall 8 26 1 1 1 0
+Tile Wall 8 27 1 1 1 0
+Tile Wall 8 28 1 1 1 0
+Tile Wall 8 29 1 1 1 0
+Tile Wall 8 30 1 1 1 0
+Tile Wall 8 31 1 1 1 0
+Tile Wall 7 31 1 1 1 0
+Tile Wall 6 31 1 1 1 0
+Tile Wall 5 31 1 1 1 0
+Tile Wall 4 31 1 1 1 0
+Tile Wall 3 31 1 1 1 0
+Tile Wall 2 31 1 1 1 0
+Tile Wall 1 31 1 1 1 0
+Tile Pit 0 25 0 0 0 0
+Tile Pit 0 24 0 0 0 0
+Tile Pit 0 23 0 0 0 0
+Tile Pit 0 26 0 0 0 0
+Tile Wall 3 22 1 1 1 0
+Tile Wall 2 22 1 1 1 0
+Tile Wall 1 22 1 1 1 0
+Tile Wall 0 22 1 1 1 0
+Tile Wall -1 22 1 1 1 0
+Tile Wall -2 22 1 1 1 0
+Tile Wall -3 22 1 1 1 0
+Tile Wall -4 22 1 1 1 0
+Tile Wall -5 22 1 1 1 0
+Tile Wall -10 22 1 1 1 0
+Tile Wall -10 23 1 1 1 0
+Tile Wall -10 24 1 1 1 0
+Tile Wall -10 25 1 1 1 0
+Tile Wall -10 26 1 1 1 0
+Tile Wall -10 27 1 1 1 0
+Tile Wall -10 28 1 1 1 0
+Tile Wall -10 29 1 1 1 0
+Tile Wall -10 30 1 1 1 0
+Tile Wall -10 31 1 1 1 0
+Tile Wall 0 31 1 1 1 0
+Tile Wall -1 31 1 1 1 0
+Tile Wall -2 31 1 1 1 0
+Tile Wall -3 31 1 1 1 0
+Tile Wall -4 31 1 1 1 0
+Tile Wall -5 31 1 1 1 0
+Tile Wall -6 31 1 1 1 0
+Tile Wall -7 31 1 1 1 0
+Tile Wall -8 31 1 1 1 0
+Tile Wall -9 31 1 1 1 0
+Tile Floor -1 30 0 0 0 0
+Tile Floor -2 30 0 0 0 0
+Tile Floor -3 30 0 0 0 0
+Tile Floor -4 30 0 0 0 0
+Tile Floor -5 30 0 0 0 0
+Tile Floor -6 30 0 0 0 0
+Tile Floor -7 30 0 0 0 0
+Tile Floor -8 30 0 0 0 0
+Tile Floor -9 30 0 0 0 0
+Tile Floor -9 29 0 0 0 0
+Tile Floor -9 28 0 0 0 0
+Tile Floor -8 28 0 0 0 0
+Tile Floor -7 28 0 0 0 0
+Tile Floor -6 28 0 0 0 0
+Tile Floor -5 28 0 0 0 0
+Tile Floor -4 28 0 0 0 0
+Tile Floor -3 28 0 0 0 0
+Tile Floor -2 28 0 0 0 0
+Tile Floor -1 28 0 0 0 0
+Tile Floor 0 28 0 0 0 0
+Tile Floor 0 29 0 0 0 0
+Tile Floor -1 29 0 0 0 0
+Tile Floor -2 29 0 0 0 0
+Tile Floor -3 29 0 0 0 0
+Tile Floor -4 29 0 0 0 0
+Tile Floor -5 29 0 0 0 0
+Tile Floor -6 29 0 0 0 0
+Tile Floor -7 29 0 0 0 0
+Tile Floor -8 29 0 0 0 0
+Dec Floor -9 27
+Dec Floor -9 26
+Dec Floor -9 25
+Dec Floor -9 24
+Dec Floor -9 23
+Dec Floor -8 23
+Dec Floor -8 24
+Dec Floor -8 25
+Dec Floor -8 26
+Dec Floor -8 27
+Dec Floor -7 27
+Dec Floor -7 26
+Dec Floor -7 25
+Dec Floor -7 24
+Dec Floor -7 23
+Dec Floor -6 23
+Dec Floor -6 24
+Dec Floor -6 25
+Dec Floor -6 26
+Dec Floor -6 27
+Tile Pit -1 23 0 0 0 0
+Tile Pit -2 23 0 0 0 0
+Tile Pit -3 23 0 0 0 0
+Tile Pit -4 23 0 0 0 0
+Tile Pit -4 24 0 0 0 0
+Tile Pit -3 24 0 0 0 0
+Tile Pit -2 24 0 0 0 0
+Tile Pit -1 24 0 0 0 0
+Tile Pit -1 25 0 0 0 0
+Tile Pit -2 25 0 0 0 0
+Tile Pit -3 25 0 0 0 0
+Tile Pit -4 25 0 0 0 0
+Tile Pit -4 26 0 0 0 0
+Tile Pit -3 26 0 0 0 0
+Tile Pit -2 26 0 0 0 0
+Tile Pit -1 26 0 0 0 0
+Tile Pit -2 27 0 0 0 0
+Tile Pit -3 27 0 0 0 0
+Tile Pit -4 27 0 0 0 0
+Tile Pit -1 27 0 0 0 0
+Tile Platform 6 27 0 0 0 2 30 6 6 23 6 27
+Tile Crate -5 23 1 0 1 0
+Tile Crate -5 24 1 0 1 0
+Tile Crate -5 25 1 0 1 0
+Tile Crate -5 26 1 0 1 0
+Tile Crate -5 27 1 0 1 0
+Dec Floor -7 18
+Dec Floor -8 18
+Dec Floor -9 18
+Dec Floor -9 19
+Dec Floor -9 20
+Dec Floor -8 22
+Dec Floor -7 22
+Dec Floor -7 21
+Dec Floor -8 21
+Dec Floor -8 20
+Dec Floor -7 20
+Dec Floor -7 19
+Dec Floor -8 19
+Dec Floor -7 19
+Tile Wall -8 17 1 1 1 0
+Tile Wall -9 17 1 1 1 0
+Tile Wall -10 17 1 1 1 0
+Tile Wall -10 21 1 1 1 0
+Tile Pit -6 21 0 0 0 0
+Tile Pit -6 22 0 0 0 0
+Tile Pit -9 21 0 0 0 0
+Tile Pit -9 22 0 0 0 0
+Tile Crate 2 30 1 0 1 0
+Tile Crate 1 30 1 0 1 0
+Tile Crate 0 30 1 0 1 0
+Tile Wall -11 21 1 1 1 0
+Tile Wall -12 21 1 1 1 0
+Tile Wall -13 21 1 1 1 0
+Tile Wall -14 21 1 1 1 0
+Tile Wall -15 21 1 1 1 0
+Tile Wall -16 21 1 1 1 0
+Tile Wall -6 2 1 1 1 0
+Tile Wall -7 2 1 1 1 0
+Tile Wall -8 2 1 1 1 0
+Tile Wall -9 2 1 1 1 0
+Tile Wall -9 3 1 1 1 0
+Tile Wall -9 4 1 1 1 0
+Tile Wall -9 5 1 1 1 0
+Tile Wall -6 -2 1 1 1 0
+Tile Wall -7 -2 1 1 1 0
+Tile Wall -8 -2 1 1 1 0
+Tile Wall -9 -2 1 1 1 0
+Tile Wall -10 -2 1 1 1 0
+Tile Wall -11 -2 1 1 1 0
+Tile Wall -12 -2 1 1 1 0
+Tile Wall -13 -2 1 1 1 0
+Tile Wall -13 -1 1 1 1 0
+Tile Wall -13 0 1 1 1 0
+Tile Wall -13 1 1 1 1 0
+Tile Wall -13 2 1 1 1 0
+Tile Wall -13 3 1 1 1 0
+Tile Wall -13 4 1 1 1 0
+Tile Wall -13 5 1 1 1 0
+Tile Wall -9 6 1 1 1 0
+Tile Wall -8 6 1 1 1 0
+Tile Wall -7 6 1 1 1 0
+Tile Wall -6 6 1 1 1 0
+Tile Wall -6 7 1 1 1 0
+Tile Wall -6 8 1 1 1 0
+Tile Wall -6 9 1 1 1 0
+Tile Wall -6 10 1 1 1 0
+Tile Wall -8 14 1 1 1 0
+Tile Wall -9 14 1 1 1 0
+Tile Wall -10 14 1 1 1 0
+Tile Wall -11 14 1 1 1 0
+Tile Wall -12 14 1 1 1 0
+Tile Wall -16 20 1 1 1 0
+Tile Wall -16 19 1 1 1 0
+Tile Wall -16 18 1 1 1 0
+Tile Wall -16 17 1 1 1 0
+Tile Wall -16 16 1 1 1 0
+Tile Wall -16 15 1 1 1 0
+Tile Wall -16 14 1 1 1 0
+Tile Wall -11 17 1 1 1 0
+Tile Wall -12 17 1 1 1 0
+Tile Wall -12 16 1 1 1 0
+Tile Wall -12 15 1 1 1 0
+Tile Wall -17 14 1 1 1 0
+Tile Wall -18 14 1 1 1 0
+Tile Wall -19 14 1 1 1 0
+Tile Wall -20 14 1 1 1 0
+Tile Wall -21 14 1 1 1 0
+Tile Wall -22 14 1 1 1 0
+Tile Wall -14 5 1 1 1 0
+Tile Wall -15 5 1 1 1 0
+Tile Wall -16 5 1 1 1 0
+Tile Wall -17 5 1 1 1 0
+Tile Wall -18 5 1 1 1 0
+Tile Wall -19 5 1 1 1 0
+Tile Wall -20 5 1 1 1 0
+Tile Wall -24 5 1 1 1 0
+Tile Wall -24 6 1 1 1 0
+Tile Wall -24 7 1 1 1 0
+Tile Wall -24 8 1 1 1 0
+Tile Wall -24 9 1 1 1 0
+Tile Wall -24 10 1 1 1 0
+Tile Wall -24 11 1 1 1 0
+Tile Wall -24 12 1 1 1 0
+Tile Wall -24 13 1 1 1 0
+Tile Wall -24 14 1 1 1 0
+Tile Wall -23 14 1 1 1 0
+Tile Wall -24 4 1 1 1 0
+Tile Wall -24 3 1 1 1 0
+Tile Wall -24 2 1 1 1 0
+Tile Wall -24 1 1 1 1 0
+Tile Wall -24 0 1 1 1 0
+Tile Wall -20 4 1 1 1 0
+Tile Wall -20 3 1 1 1 0
+Tile Wall -20 2 1 1 1 0
+Tile Wall -20 1 1 1 1 0
+Tile Wall -20 0 1 1 1 0
+Tile Wall -20 -1 1 1 1 0
+Tile Wall -20 -2 1 1 1 0
+Tile Wall -20 -3 1 1 1 0
+Tile Wall -24 -1 1 1 1 0
+Tile Wall -24 -2 1 1 1 0
+Tile Wall -24 -3 1 1 1 0
+Tile Wall -20 -4 1 1 1 0
+Tile Wall -19 -4 1 1 1 0
+Tile Wall -18 -4 1 1 1 0
+Tile Wall -17 -4 1 1 1 0
+Tile Wall -16 -4 1 1 1 0
+Tile Wall -15 -4 1 1 1 0
+Tile Wall -14 -4 1 1 1 0
+Tile Wall -24 -4 1 1 1 0
+Tile Wall -25 -4 1 1 1 0
+Tile Wall -26 -4 1 1 1 0
+Tile Wall -27 -4 1 1 1 0
+Tile Wall -28 -4 1 1 1 0
+Tile Wall -29 -4 1 1 1 0
+Tile Wall -30 -4 1 1 1 0
+Tile Wall -30 -5 1 1 1 0
+Tile Wall -30 -6 1 1 1 0
+Tile Wall -30 -7 1 1 1 0
+Tile Wall -30 -8 1 1 1 0
+Tile Wall -14 -5 1 1 1 0
+Tile Wall -14 -6 1 1 1 0
+Tile Wall -14 -7 1 1 1 0
+Tile Wall -14 -8 1 1 1 0
+Tile Wall -14 -9 1 1 1 0
+Tile Wall -14 -10 1 1 1 0
+Tile Wall -30 -9 1 1 1 0
+Tile Wall -30 -10 1 1 1 0
+Tile Wall -30 -11 1 1 1 0
+Tile Wall -30 -12 1 1 1 0
+Tile Wall -30 -13 1 1 1 0
+Tile Wall -30 -14 1 1 1 0
+Tile Wall -30 -15 1 1 1 0
+Tile Wall -30 -16 1 1 1 0
+Tile Wall -30 -17 1 1 1 0
+Tile Wall -30 -18 1 1 1 0
+Tile Wall -30 -19 1 1 1 0
+Tile Wall -14 -19 1 1 1 0
+Tile Wall -14 -18 1 1 1 0
+Tile Wall -14 -17 1 1 1 0
+Tile Wall -14 -16 1 1 1 0
+Tile Wall -14 -15 1 1 1 0
+Tile Wall -14 -14 1 1 1 0
+Tile Wall -14 -10 1 1 1 0
+Tile Floor -22 -11 0 0 0 0
+Tile Floor -23 -11 0 0 0 0
+Tile Floor -23 -10 0 0 0 0
+Tile Floor -22 -10 0 0 0 0
+Tile Floor -21 -10 0 0 0 0
+Tile Floor -21 -11 0 0 0 0
+Tile Floor -21 -12 0 0 0 0
+Tile Floor -22 -12 0 0 0 0
+Tile Floor -23 -12 0 0 0 0
+Tile Floor -21 -13 0 0 0 0
+Tile Floor -22 -13 0 0 0 0
+Tile Floor -23 -13 0 0 0 0
+Tile Floor -20 -13 0 0 0 0
+Tile Floor -20 -12 0 0 0 0
+Tile Floor -20 -11 0 0 0 0
+Tile Floor -24 -13 0 0 0 0
+Tile Floor -24 -12 0 0 0 0
+Tile Floor -24 -11 0 0 0 0
+Tile Floor -23 -14 0 0 0 0
+Tile Floor -22 -14 0 0 0 0
+Tile Floor -21 -14 0 0 0 0
+Tile Wall -14 -20 1 1 1 0
+Tile Wall -15 -20 1 1 1 0
+Tile Wall -16 -20 1 1 1 0
+Tile Wall -17 -20 1 1 1 0
+Tile Wall -18 -20 1 1 1 0
+Tile Wall -19 -20 1 1 1 0
+Tile Wall -20 -20 1 1 1 0
+Tile Wall -21 -20 1 1 1 0
+Tile Wall -22 -20 1 1 1 0
+Tile Wall -23 -20 1 1 1 0
+Tile Wall -24 -20 1 1 1 0
+Tile Wall -26 -20 1 1 1 0
+Tile Wall -27 -20 1 1 1 0
+Tile Wall -28 -20 1 1 1 0
+Tile Wall -29 -20 1 1 1 0
+Tile Wall -30 -20 1 1 1 0
+Tile Wall -25 -20 1 1 1 0
+Dec Floor -23 -9
+Dec Floor -22 -9
+Dec Floor -21 -9
+Dec Floor -19 -9
+Dec Floor -19 -11
+Dec Floor -19 -12
+Dec Floor -25 -9
+Dec Floor -25 -11
+Dec Floor -25 -12
+Dec Floor -25 -13
+Dec Floor -25 -15
+Dec Floor -23 -15
+Dec Floor -22 -15
+Dec Floor -21 -15
+Dec Floor -19 -15
+Dec Floor -19 -13
+Dec Floor -18 -8
+Dec Floor -19 -8
+Dec Floor -20 -8
+Dec Floor -21 -8
+Dec Floor -22 -8
+Dec Floor -23 -8
+Dec Floor -24 -8
+Dec Floor -25 -8
+Dec Floor -26 -8
+Dec Floor -26 -9
+Dec Floor -26 -10
+Dec Floor -26 -11
+Dec Floor -26 -12
+Dec Floor -26 -13
+Dec Floor -26 -14
+Dec Floor -18 -10
+Dec Floor -18 -11
+Dec Floor -18 -12
+Dec Floor -18 -13
+Dec Floor -18 -14
+Dec Floor -18 -15
+Dec Floor -18 -16
+Dec Floor -19 -16
+Dec Floor -20 -16
+Dec Floor -21 -16
+Dec Floor -22 -16
+Dec Floor -23 -16
+Dec Floor -24 -16
+Dec Floor -25 -16
+Dec Floor -26 -16
+Dec Floor -26 -15
+Dec Floor -18 -9
+Tile Pit -23 -6 0 0 0 0
+Tile Pit -23 -7 0 0 0 0
+Tile Pit -22 -7 0 0 0 0
+Tile Pit -21 -7 0 0 0 0
+Tile Pit -20 -7 0 0 0 0
+Tile Pit -19 -7 0 0 0 0
+Tile Pit -18 -7 0 0 0 0
+Tile Pit -17 -7 0 0 0 0
+Tile Pit -16 -7 0 0 0 0
+Tile Pit -15 -7 0 0 0 0
+Tile Pit -15 -6 0 0 0 0
+Tile Pit -15 -5 0 0 0 0
+Tile Pit -16 -5 0 0 0 0
+Tile Pit -17 -5 0 0 0 0
+Tile Pit -18 -5 0 0 0 0
+Tile Pit -19 -5 0 0 0 0
+Tile Pit -20 -5 0 0 0 0
+Tile Pit -21 -5 0 0 0 0
+Tile Pit -22 -5 0 0 0 0
+Tile Pit -23 -5 0 0 0 0
+Tile Pit -22 -6 0 0 0 0
+Tile Pit -21 -6 0 0 0 0
+Tile Pit -20 -6 0 0 0 0
+Tile Pit -19 -6 0 0 0 0
+Tile Pit -18 -6 0 0 0 0
+Tile Pit -17 -6 0 0 0 0
+Tile Pit -16 -6 0 0 0 0
+Tile Pit -24 -7 0 0 0 0
+Tile Pit -25 -7 0 0 0 0
+Tile Pit -26 -7 0 0 0 0
+Tile Pit -27 -7 0 0 0 0
+Tile Pit -28 -7 0 0 0 0
+Tile Pit -29 -7 0 0 0 0
+Tile Pit -29 -6 0 0 0 0
+Tile Pit -28 -6 0 0 0 0
+Tile Pit -27 -6 0 0 0 0
+Tile Pit -26 -6 0 0 0 0
+Tile Pit -25 -6 0 0 0 0
+Tile Pit -24 -6 0 0 0 0
+Tile Pit -24 -5 0 0 0 0
+Tile Pit -25 -5 0 0 0 0
+Tile Pit -26 -5 0 0 0 0
+Tile Pit -27 -5 0 0 0 0
+Tile Pit -28 -5 0 0 0 0
+Tile Pit -29 -5 0 0 0 0
+Tile Pit -29 -8 0 0 0 0
+Tile Pit -29 -9 0 0 0 0
+Tile Pit -29 -10 0 0 0 0
+Tile Pit -29 -11 0 0 0 0
+Tile Pit -29 -12 0 0 0 0
+Tile Pit -28 -8 0 0 0 0
+Tile Pit -28 -9 0 0 0 0
+Tile Pit -28 -10 0 0 0 0
+Tile Pit -28 -11 0 0 0 0
+Tile Pit -28 -12 0 0 0 0
+Tile Pit -27 -9 0 0 0 0
+Tile Pit -27 -10 0 0 0 0
+Tile Pit -27 -11 0 0 0 0
+Tile Pit -27 -12 0 0 0 0
+Tile Pit -27 -8 0 0 0 0
+Tile Pit -27 -13 0 0 0 0
+Tile Pit -27 -14 0 0 0 0
+Tile Pit -27 -15 0 0 0 0
+Tile Pit -27 -16 0 0 0 0
+Tile Pit -27 -17 0 0 0 0
+Tile Pit -27 -18 0 0 0 0
+Tile Pit -27 -19 0 0 0 0
+Tile Pit -28 -19 0 0 0 0
+Tile Pit -28 -18 0 0 0 0
+Tile Pit -28 -17 0 0 0 0
+Tile Pit -28 -16 0 0 0 0
+Tile Pit -28 -15 0 0 0 0
+Tile Pit -28 -14 0 0 0 0
+Tile Pit -28 -13 0 0 0 0
+Tile Pit -29 -13 0 0 0 0
+Tile Pit -29 -14 0 0 0 0
+Tile Pit -29 -15 0 0 0 0
+Tile Pit -29 -16 0 0 0 0
+Tile Pit -29 -17 0 0 0 0
+Tile Pit -29 -18 0 0 0 0
+Tile Pit -29 -19 0 0 0 0
+Tile Pit -26 -19 0 0 0 0
+Tile Pit -25 -19 0 0 0 0
+Tile Pit -24 -19 0 0 0 0
+Tile Pit -23 -19 0 0 0 0
+Tile Pit -22 -19 0 0 0 0
+Tile Pit -21 -19 0 0 0 0
+Tile Pit -20 -19 0 0 0 0
+Tile Pit -19 -19 0 0 0 0
+Tile Pit -18 -19 0 0 0 0
+Tile Pit -18 -18 0 0 0 0
+Tile Pit -19 -18 0 0 0 0
+Tile Pit -20 -18 0 0 0 0
+Tile Pit -21 -18 0 0 0 0
+Tile Pit -22 -18 0 0 0 0
+Tile Pit -23 -18 0 0 0 0
+Tile Pit -24 -18 0 0 0 0
+Tile Pit -25 -18 0 0 0 0
+Tile Pit -26 -18 0 0 0 0
+Tile Pit -26 -17 0 0 0 0
+Tile Pit -25 -17 0 0 0 0
+Tile Pit -24 -17 0 0 0 0
+Tile Pit -23 -17 0 0 0 0
+Tile Pit -22 -17 0 0 0 0
+Tile Pit -21 -17 0 0 0 0
+Tile Pit -20 -17 0 0 0 0
+Tile Pit -19 -17 0 0 0 0
+Tile Pit -18 -17 0 0 0 0
+Tile Pit -17 -19 0 0 0 0
+Tile Pit -16 -19 0 0 0 0
+Tile Pit -15 -19 0 0 0 0
+Tile Pit -15 -18 0 0 0 0
+Tile Pit -16 -18 0 0 0 0
+Tile Pit -17 -18 0 0 0 0
+Tile Pit -17 -17 0 0 0 0
+Tile Pit -16 -17 0 0 0 0
+Tile Pit -15 -17 0 0 0 0
+Tile Pit -15 -16 0 0 0 0
+Tile Pit -16 -16 0 0 0 0
+Tile Pit -17 -16 0 0 0 0
+Tile Pit -17 -15 0 0 0 0
+Tile Pit -17 -14 0 0 0 0
+Tile Pit -17 -13 0 0 0 0
+Tile Pit -17 -12 0 0 0 0
+Tile Pit -16 -15 0 0 0 0
+Tile Pit -16 -14 0 0 0 0
+Tile Pit -16 -13 0 0 0 0
+Tile Pit -16 -12 0 0 0 0
+Tile Pit -15 -15 0 0 0 0
+Tile Pit -15 -14 0 0 0 0
+Tile Pit -15 -13 0 0 0 0
+Tile Pit -15 -12 0 0 0 0
+Tile Pit -17 -11 0 0 0 0
+Tile Pit -17 -10 0 0 0 0
+Tile Pit -17 -9 0 0 0 0
+Tile Pit -17 -8 0 0 0 0
+Tile Pit -16 -11 0 0 0 0
+Tile Pit -16 -10 0 0 0 0
+Tile Pit -16 -9 0 0 0 0
+Tile Pit -16 -8 0 0 0 0
+Tile Pit -15 -10 0 0 0 0
+Tile Pit -15 -9 0 0 0 0
+Tile Pit -15 -8 0 0 0 0
+Tile Pit -15 -11 0 0 0 0
+Tile Pit -23 -4 0 0 0 0
+Tile Pit -23 -3 0 0 0 0
+Tile Pit -23 -2 0 0 0 0
+Tile Pit -23 -1 0 0 0 0
+Tile Pit -23 0 0 0 0 0
+Tile Pit -22 -4 0 0 0 0
+Tile Pit -22 -3 0 0 0 0
+Tile Pit -22 -2 0 0 0 0
+Tile Pit -22 -1 0 0 0 0
+Tile Pit -22 0 0 0 0 0
+Tile Pit -21 -4 0 0 0 0
+Tile Pit -21 -3 0 0 0 0
+Tile Pit -21 -2 0 0 0 0
+Tile Pit -21 -1 0 0 0 0
+Tile Pit -21 0 0 0 0 0
+Dec Floor -21 1
+Dec Floor -22 1
+Dec Floor -23 1
+Dec Floor -23 2
+Dec Floor -22 2
+Dec Floor -21 2
+Dec Floor -21 3
+Dec Floor -22 3
+Dec Floor -23 3
+Dec Floor -1 -6
+Dec Floor -1 -7
+Dec Floor -1 -8
+Dec Floor -1 -9
+Dec Floor -1 -10
+Dec Floor 0 -6
+Dec Floor 0 -7
+Dec Floor 0 -8
+Dec Floor 0 -9
+Dec Floor 0 -10
+Dec Floor 1 -7
+Dec Floor 1 -8
+Dec Floor 1 -9
+Dec Floor 1 -10
+Dec Floor 1 -6
+Tile Pit -14 -11 0 0 0 0
+Tile Pit -13 -11 0 0 0 0
+Tile Pit -12 -11 0 0 0 0
+Tile Pit -11 -11 0 0 0 0
+Tile Pit -10 -11 0 0 0 0
+Tile Pit -9 -11 0 0 0 0
+Tile Pit -14 -12 0 0 0 0
+Tile Pit -13 -12 0 0 0 0
+Tile Pit -12 -12 0 0 0 0
+Tile Pit -11 -12 0 0 0 0
+Tile Pit -10 -12 0 0 0 0
+Tile Pit -9 -12 0 0 0 0
+Tile Pit -14 -13 0 0 0 0
+Tile Pit -13 -13 0 0 0 0
+Tile Pit -12 -13 0 0 0 0
+Tile Pit -11 -13 0 0 0 0
+Tile Pit -10 -13 0 0 0 0
+Tile Pit -9 -13 0 0 0 0
+Dec Floor -8 -11
+Dec Floor -7 -11
+Dec Floor -6 -11
+Dec Floor -5 -11
+Dec Floor -4 -11
+Dec Floor -3 -11
+Dec Floor -2 -11
+Dec Floor -1 -11
+Dec Floor 0 -11
+Dec Floor 1 -11
+Dec Floor 1 -12
+Dec Floor 0 -12
+Dec Floor -1 -12
+Dec Floor -2 -12
+Dec Floor -3 -12
+Dec Floor -4 -12
+Dec Floor -5 -12
+Dec Floor -6 -12
+Dec Floor -7 -12
+Dec Floor -8 -12
+Dec Floor -8 -13
+Dec Floor -7 -13
+Dec Floor -6 -13
+Dec Floor -5 -13
+Dec Floor -4 -13
+Dec Floor -3 -13
+Dec Floor -2 -13
+Dec Floor -1 -13
+Dec Floor 0 -13
+Dec Floor 1 -13
+Tile Pit -11 -10 0 0 0 0
+Tile Pit -10 -10 0 0 0 0
+Tile Pit -9 -10 0 0 0 0
+Tile Pit -8 -10 0 0 0 0
+Tile Pit -7 -10 0 0 0 0
+Tile Pit -6 -10 0 0 0 0
+Tile Pit -5 -10 0 0 0 0
+Tile Pit -4 -10 0 0 0 0
+Tile Pit -3 -10 0 0 0 0
+Tile Pit -3 -9 0 0 0 0
+Tile Pit -4 -9 0 0 0 0
+Tile Pit -5 -9 0 0 0 0
+Tile Pit -6 -9 0 0 0 0
+Tile Pit -7 -9 0 0 0 0
+Tile Pit -8 -9 0 0 0 0
+Tile Pit -9 -9 0 0 0 0
+Tile Pit -10 -9 0 0 0 0
+Tile Pit -11 -9 0 0 0 0
+Tile Pit -11 -14 0 0 0 0
+Tile Pit -10 -14 0 0 0 0
+Tile Pit -9 -14 0 0 0 0
+Tile Pit -8 -14 0 0 0 0
+Tile Pit -7 -14 0 0 0 0
+Tile Pit -6 -14 0 0 0 0
+Tile Pit -5 -14 0 0 0 0
+Tile Pit -4 -14 0 0 0 0
+Tile Pit -3 -14 0 0 0 0
+Tile Pit -3 -15 0 0 0 0
+Tile Pit -4 -15 0 0 0 0
+Tile Pit -5 -15 0 0 0 0
+Tile Pit -6 -15 0 0 0 0
+Tile Pit -7 -15 0 0 0 0
+Tile Pit -8 -15 0 0 0 0
+Tile Pit -9 -15 0 0 0 0
+Tile Pit -10 -15 0 0 0 0
+Tile Pit -11 -15 0 0 0 0
+Tile Wall -13 -14 1 1 1 0
+Tile Wall -12 -14 1 1 1 0
+Tile Wall -12 -15 1 1 1 0
+Tile Wall -12 -16 1 1 1 0
+Tile Wall -11 -16 1 1 1 0
+Tile Wall -10 -16 1 1 1 0
+Tile Wall -9 -16 1 1 1 0
+Tile Wall -8 -16 1 1 1 0
+Tile Wall -7 -16 1 1 1 0
+Tile Wall -6 -16 1 1 1 0
+Tile Wall -5 -16 1 1 1 0
+Tile Wall -4 -16 1 1 1 0
+Tile Wall -3 -16 1 1 1 0
+Tile Wall -2 -16 1 1 1 0
+Tile Wall -2 -15 1 1 1 0
+Tile Wall -2 -14 1 1 1 0
+Tile Wall -2 -10 1 1 1 0
+Tile Wall -2 -9 1 1 1 0
+Tile Wall -2 -8 1 1 1 0
+Tile Wall -2 -7 1 1 1 0
+Tile Wall -2 -6 1 1 1 0
+Tile Wall -3 -8 1 1 1 0
+Tile Wall -4 -8 1 1 1 0
+Tile Wall -5 -8 1 1 1 0
+Tile Wall -6 -8 1 1 1 0
+Tile Wall -7 -8 1 1 1 0
+Tile Wall -8 -8 1 1 1 0
+Tile Wall -9 -8 1 1 1 0
+Tile Wall -10 -8 1 1 1 0
+Tile Wall -11 -8 1 1 1 0
+Tile Wall -12 -8 1 1 1 0
+Tile Wall -12 -9 1 1 1 0
+Tile Wall -12 -10 1 1 1 0
+Tile Wall -13 -10 1 1 1 0
+Tile Wall 2 -6 1 1 1 0
+Tile Wall 2 -7 1 1 1 0
+Tile Wall 2 -8 1 1 1 0
+Tile Wall 2 -9 1 1 1 0
+Tile Wall 2 -10 1 1 1 0
+Tile Wall -1 -14 1 1 1 0
+Tile Wall 0 -14 1 1 1 0
+Tile Wall 1 -14 1 1 1 0
+Tile Wall 2 -14 1 1 1 0
+Tile Crate -21 8 1 0 1 0
+Tile Crate -21 9 1 0 1 0
+Tile Crate -20 9 1 0 1 0
+Tile Crate -20 8 1 0 1 0
+Tile Crate -17 11 1 0 1 0
+Tile Crate -17 12 1 0 1 0
+Tile Crate -16 12 1 0 1 0
+Tile Crate -16 11 1 0 1 0
+Tile Crate -15 6 1 0 1 0
+Tile Crate -15 7 1 0 1 0
+Tile Crate -14 7 1 0 1 0
+Tile Crate -14 6 1 0 1 0
+Tile Crate -11 10 1 0 1 0
+Tile Crate -11 11 1 0 1 0
+Tile Crate -10 11 1 0 1 0
+Tile Crate -10 10 1 0 1 0
+Tile Crate -13 12 1 0 1 0
+Tile Crate -17 8 1 0 1 0
+Tile Crate -22 12 1 0 1 0
+Tile Energy -22 -12 0 0 0 0
+Tile Crate -19 -10 1 0 1 0
+Tile Crate -20 -10 1 0 1 0
+Tile Crate -20 -9 1 0 1 0
+Tile Crate -20 -15 1 0 1 0
+Tile Crate -20 -14 1 0 1 0
+Tile Crate -19 -14 1 0 1 0
+Tile Crate -24 -15 1 0 1 0
+Tile Crate -24 -14 1 0 1 0
+Tile Crate -25 -14 1 0 1 0
+Tile Crate -25 -10 1 0 1 0
+Tile Crate -24 -10 1 0 1 0
+Tile Crate -24 -9 1 0 1 0
+Dec Floor -23 4
+Dec Floor -22 4
+Dec Floor -21 4
+Dec Floor -21 5
+Dec Floor -21 6
+Dec Floor -21 7
+Dec Floor -22 7
+Dec Floor -22 6
+Dec Floor -22 5
+Dec Floor -23 5
+Dec Floor -23 6
+Dec Floor -23 7
+Dec Floor -23 8
+Dec Floor -23 9
+Dec Floor -23 10
+Dec Floor -22 8
+Dec Floor -22 9
+Dec Floor -22 10
+Dec Floor -23 11
+Dec Floor -22 11
+Dec Floor -23 12
+Dec Floor -23 13
+Dec Floor -22 13
+Dec Floor -21 13
+Dec Floor -20 13
+Dec Floor -19 13
+Dec Floor -18 13
+Dec Floor -17 13
+Dec Floor -16 13
+Dec Floor -18 12
+Dec Floor -19 12
+Dec Floor -20 12
+Dec Floor -21 12
+Dec Floor -21 11
+Dec Floor -20 11
+Dec Floor -19 11
+Dec Floor -18 11
+Dec Floor -21 10
+Dec Floor -20 10
+Dec Floor -19 10
+Dec Floor -18 10
+Dec Floor -17 10
+Dec Floor -16 10
+Dec Floor -15 10
+Dec Floor -15 11
+Dec Floor -15 12
+Dec Floor -15 13
+Dec Floor -14 13
+Dec Floor -14 12
+Dec Floor -14 11
+Dec Floor -14 10
+Dec Floor -14 9
+Dec Floor -15 9
+Dec Floor -16 9
+Dec Floor -17 9
+Dec Floor -18 9
+Dec Floor -19 9
+Dec Floor -19 8
+Dec Floor -18 8
+Dec Floor -20 7
+Dec Floor -19 7
+Dec Floor -18 7
+Dec Floor -17 7
+Dec Floor -16 7
+Dec Floor -16 6
+Dec Floor -17 6
+Dec Floor -18 6
+Dec Floor -19 6
+Dec Floor -20 6
+Dec Floor -16 8
+Dec Floor -15 8
+Dec Floor -14 8
+Dec Floor -13 8
+Dec Floor -12 8
+Dec Floor -12 9
+Dec Floor -12 10
+Dec Floor -12 11
+Dec Floor -12 12
+Dec Floor -12 13
+Dec Floor -13 13
+Dec Floor -13 11
+Dec Floor -13 10
+Dec Floor -13 9
+Dec Floor -11 13
+Dec Floor -10 13
+Dec Floor -9 13
+Dec Floor -8 13
+Dec Floor -11 12
+Dec Floor -10 12
+Dec Floor -9 12
+Dec Floor -8 12
+Dec Floor -9 11
+Dec Floor -9 10
+Dec Floor -9 9
+Dec Floor -9 8
+Dec Floor -9 7
+Dec Floor -8 7
+Dec Floor -8 8
+Dec Floor -8 9
+Dec Floor -8 10
+Dec Floor -8 11
+Dec Floor -7 10
+Dec Floor -7 9
+Dec Floor -7 8
+Dec Floor -7 7
+Dec Floor -10 9
+Dec Floor -10 8
+Dec Floor -10 7
+Dec Floor -10 6
+Dec Floor -10 5
+Dec Floor -11 9
+Dec Floor -11 8
+Dec Floor -11 7
+Dec Floor -11 6
+Dec Floor -11 5
+Dec Floor -12 7
+Dec Floor -12 6
+Dec Floor -13 6
+Dec Floor -13 7
+Dec Floor -6 1
+Dec Floor -7 1
+Dec Floor -8 1
+Dec Floor -9 1
+Dec Floor -10 1
+Dec Floor -11 1
+Dec Floor -12 1
+Dec Floor -12 2
+Dec Floor -12 3
+Dec Floor -12 4
+Dec Floor -12 5
+Dec Floor -11 4
+Dec Floor -11 3
+Dec Floor -11 2
+Dec Floor -10 4
+Dec Floor -10 3
+Dec Floor -10 2
+Dec Floor -6 0
+Dec Floor -7 0
+Dec Floor -8 0
+Dec Floor -9 0
+Dec Floor -10 0
+Dec Floor -11 0
+Dec Floor -12 0
+Dec Floor -6 -1
+Dec Floor -7 -1
+Dec Floor -8 -1
+Dec Floor -9 -1
+Dec Floor -10 -1
+Dec Floor -11 -1
+Dec Floor -12 -1
+Dec Floor -10 20
+Dec Floor -11 20
+Dec Floor -12 20
+Dec Floor -13 20
+Dec Floor -14 20
+Dec Floor -15 20
+Dec Floor -10 19
+Dec Floor -11 19
+Dec Floor -12 19
+Dec Floor -13 19
+Dec Floor -14 19
+Dec Floor -15 19
+Dec Floor -10 18
+Dec Floor -11 18
+Dec Floor -12 18
+Dec Floor -13 18
+Dec Floor -14 18
+Dec Floor -15 18
+Dec Floor -15 17
+Dec Floor -15 16
+Dec Floor -15 15
+Dec Floor -15 14
+Dec Floor -14 17
+Dec Floor -14 16
+Dec Floor -14 15
+Dec Floor -14 14
+Dec Floor -13 17
+Dec Floor -13 16
+Dec Floor -13 15
+Dec Floor -13 14
+Tile Platform -22 -5 0 0 0 2 30 5 -22 0 -22 -7
+Tile Platform -14 -12 0 0 0 2 30 5 -9 -12 -17 -12
+Tile Wall 6 -2 1 1 1 0
+Tile Wall 7 -2 1 1 1 0
+Tile Wall 6 2 1 1 1 0
+Tile Wall 7 2 1 1 1 0
+Tile Wall 8 2 1 1 1 0
+Tile Wall 9 2 1 1 1 0
+Tile Wall 7 -3 1 1 1 0
+Tile Wall 7 -4 1 1 1 0
+Tile Wall 7 -5 1 1 1 0
+Tile Wall 10 2 1 1 1 0
+Tile Wall 11 2 1 1 1 0
+Tile Wall 11 1 1 1 1 0
+Tile Wall 11 0 1 1 1 0
+Tile Wall 11 -1 1 1 1 0
+Tile Wall 11 -2 1 1 1 0
+Tile Wall 3 -10 1 1 1 0
+Tile Wall 4 -10 1 1 1 0
+Tile Wall 5 -10 1 1 1 0
+Tile Wall 6 -10 1 1 1 0
+Tile Wall 7 -10 1 1 1 0
+Tile Wall 7 -9 1 1 1 0
+Tile Wall 7 -8 1 1 1 0
+Tile Wall 7 -7 1 1 1 0
+Tile Wall 7 -6 1 1 1 0
+Tile Wall 3 -14 1 1 1 0
+Tile Wall 4 -14 1 1 1 0
+Tile Wall 5 -14 1 1 1 0
+Tile Wall 6 -14 1 1 1 0
+Tile Wall 7 -14 1 1 1 0
+Tile Wall 11 -3 1 1 1 0
+Tile Wall 11 -4 1 1 1 0
+Tile Wall 11 -5 1 1 1 0
+Tile Wall 11 -6 1 1 1 0
+Tile Wall 11 -7 1 1 1 0
+Tile Wall 11 -8 1 1 1 0
+Tile Wall 11 -9 1 1 1 0
+Tile Wall 11 -10 1 1 1 0
+Tile Wall 12 -10 1 1 1 0
+Tile Wall 13 -10 1 1 1 0
+Tile Wall 14 -10 1 1 1 0
+Tile Wall 15 -10 1 1 1 0
+Tile Wall 16 -10 1 1 1 0
+Tile Wall 17 -10 1 1 1 0
+Tile Wall 18 -10 1 1 1 0
+Tile Wall 19 -10 1 1 1 0
+Tile Wall 20 -10 1 1 1 0
+Tile Wall 21 -10 1 1 1 0
+Tile Wall 7 -15 1 1 1 0
+Tile Wall 7 -16 1 1 1 0
+Tile Wall 7 -17 1 1 1 0
+Tile Wall 7 -18 1 1 1 0
+Tile Wall 7 -19 1 1 1 0
+Tile Wall 7 -20 1 1 1 0
+Tile Wall 21 -11 1 1 1 0
+Tile Wall 21 -12 1 1 1 0
+Tile Wall 21 -13 1 1 1 0
+Tile Wall 21 -14 1 1 1 0
+Tile Wall 21 -15 1 1 1 0
+Tile Wall 21 -16 1 1 1 0
+Tile Wall 21 -17 1 1 1 0
+Tile Wall 21 -18 1 1 1 0
+Tile Wall 21 -19 1 1 1 0
+Tile Wall 21 -20 1 1 1 0
+Tile Wall 20 -20 1 1 1 0
+Tile Wall 19 -20 1 1 1 0
+Tile Wall 18 -20 1 1 1 0
+Tile Wall 17 -20 1 1 1 0
+Tile Wall 16 -20 1 1 1 0
+Tile Wall 15 -20 1 1 1 0
+Tile Wall 14 -20 1 1 1 0
+Tile Wall 13 -20 1 1 1 0
+Tile Wall 12 -20 1 1 1 0
+Tile Wall 11 -20 1 1 1 0
+Tile Wall 10 -20 1 1 1 0
+Tile Wall 9 -20 1 1 1 0
+Tile Wall 8 -20 1 1 1 0
+Tile Wall 11 -11 1 1 1 0
+Tile Wall 11 -12 1 1 1 0
+Tile Wall 11 -13 1 1 1 0
+Dec Floor 2 -13
+Dec Floor 4 -13
+Dec Floor 5 -13
+Dec Floor 6 -13
+Dec Floor 7 -13
+Dec Floor 8 -13
+Dec Floor 9 -13
+Dec Floor 10 -13
+Dec Floor 10 -12
+Dec Floor 9 -12
+Dec Floor 8 -12
+Dec Floor 7 -12
+Dec Floor 6 -12
+Dec Floor 5 -12
+Dec Floor 4 -12
+Dec Floor 3 -12
+Dec Floor 2 -12
+Dec Floor 2 -11
+Dec Floor 3 -11
+Dec Floor 4 -11
+Dec Floor 5 -11
+Dec Floor 6 -11
+Dec Floor 8 -11
+Dec Floor 9 -11
+Dec Floor 10 -11
+Dec Floor 10 -10
+Dec Floor 9 -10
+Dec Floor 8 -10
+Dec Floor 8 -9
+Dec Floor 9 -9
+Dec Floor 10 -9
+Dec Floor 10 -8
+Dec Floor 9 -8
+Dec Floor 8 -8
+Dec Floor 8 -6
+Dec Floor 8 -5
+Dec Floor 8 -4
+Dec Floor 8 -3
+Dec Floor 8 -2
+Dec Floor 8 -1
+Dec Floor 8 0
+Dec Floor 8 1
+Dec Floor 7 1
+Dec Floor 6 1
+Dec Floor 6 1
+Dec Floor 6 0
+Dec Floor 7 0
+Dec Floor 6 -1
+Dec Floor 7 -1
+Dec Floor 9 1
+Dec Floor 10 1
+Dec Floor 10 0
+Dec Floor 10 -1
+Dec Floor 10 -2
+Dec Floor 10 -4
+Dec Floor 10 -5
+Dec Floor 10 -6
+Dec Floor 10 -7
+Dec Floor 9 -7
+Dec Floor 9 -6
+Dec Floor 9 -5
+Dec Floor 9 -4
+Dec Floor 9 -3
+Dec Floor 9 -2
+Dec Floor 9 -1
+Dec Floor 9 0
+Tile Crate 10 -3 1 0 1 0
+Tile Crate 8 -7 1 0 1 0
+Tile Crate 7 -11 1 0 1 0
+Tile Crate 3 -13 1 0 1 0
+Tile Pit 15 -19 0 0 0 0
+Tile Pit 15 -18 0 0 0 0
+Tile Pit 15 -17 0 0 0 0
+Tile Pit 15 -16 0 0 0 0
+Tile Pit 15 -15 0 0 0 0
+Tile Pit 15 -14 0 0 0 0
+Tile Pit 15 -13 0 0 0 0
+Tile Pit 16 -13 0 0 0 0
+Tile Pit 16 -14 0 0 0 0
+Tile Pit 16 -15 0 0 0 0
+Tile Pit 16 -16 0 0 0 0
+Tile Pit 16 -17 0 0 0 0
+Tile Pit 16 -18 0 0 0 0
+Tile Pit 16 -19 0 0 0 0
+Tile Pit 17 -19 0 0 0 0
+Tile Pit 17 -18 0 0 0 0
+Tile Pit 17 -17 0 0 0 0
+Tile Pit 17 -16 0 0 0 0
+Tile Pit 17 -15 0 0 0 0
+Tile Pit 17 -14 0 0 0 0
+Tile Pit 17 -13 0 0 0 0
+Dec Floor 18 -19
+Dec Floor 18 -18
+Dec Floor 18 -17
+Dec Floor 18 -16
+Dec Floor 18 -15
+Dec Floor 18 -14
+Dec Floor 18 -13
+Dec Floor 18 -12
+Dec Floor 18 -11
+Dec Floor 19 -11
+Dec Floor 19 -12
+Dec Floor 19 -13
+Dec Floor 19 -14
+Dec Floor 19 -15
+Dec Floor 19 -16
+Dec Floor 19 -17
+Dec Floor 19 -18
+Dec Floor 19 -19
+Dec Floor 20 -19
+Dec Floor 20 -18
+Dec Floor 20 -17
+Dec Floor 20 -16
+Dec Floor 20 -15
+Dec Floor 20 -14
+Dec Floor 20 -13
+Dec Floor 20 -12
+Dec Floor 20 -11
+Dec Floor 17 -11
+Dec Floor 16 -11
+Dec Floor 15 -11
+Dec Floor 14 -11
+Dec Floor 13 -11
+Dec Floor 12 -11
+Dec Floor 12 -12
+Dec Floor 13 -12
+Dec Floor 14 -12
+Dec Floor 15 -12
+Dec Floor 16 -12
+Dec Floor 17 -12
+Dec Floor 14 -13
+Dec Floor 14 -14
+Dec Floor 14 -15
+Dec Floor 13 -15
+Dec Floor 13 -16
+Dec Floor 13 -17
+Dec Floor 14 -17
+Dec Floor 14 -18
+Dec Floor 14 -19
+Dec Floor 13 -19
+Dec Floor 13 -18
+Dec Floor 14 -16
+Dec Floor 13 -13
+Dec Floor 13 -14
+Dec Floor 12 -13
+Dec Floor 12 -14
+Dec Floor 12 -15
+Dec Floor 12 -16
+Dec Floor 12 -17
+Dec Floor 12 -18
+Dec Floor 12 -19
+Dec Floor 11 -19
+Dec Floor 10 -19
+Dec Floor 9 -19
+Dec Floor 8 -19
+Dec Floor 8 -18
+Dec Floor 9 -18
+Dec Floor 10 -18
+Dec Floor 11 -18
+Dec Floor 11 -17
+Dec Floor 10 -17
+Dec Floor 9 -17
+Dec Floor 8 -17
+Dec Floor 8 -16
+Dec Floor 9 -16
+Dec Floor 10 -16
+Dec Floor 11 -16
+Dec Floor 11 -15
+Dec Floor 10 -15
+Dec Floor 9 -15
+Dec Floor 8 -15
+Dec Floor 8 -14
+Dec Floor 9 -14
+Dec Floor 10 -14
+Tile Wall 11 -14 1 1 1 0
+Tile Booster -4 -12 0 0 0 0
+Tile Energy 13 -13 0 0 0 0
+Player 0 0 48 48 2 10 8 100
+NPC 1 19 -18 80 4 1000 1 300 1 19 -18
+NPC 1 19 -16 80 4 1000 1 300 1 19 -16
+NPC 2 9 -9 20 6 1000 0 300 2 9 -9 9 -3
+NPC 0 5 -12 30 5 1000 1 250 1 5 -12
+NPC 0 -20 11 30 5 1000 0 250 1 -20 11
+NPC 0 -18 7 30 5 1000 1 250 1 -18 7
+NPC 0 -10 13 30 5 1000 1 250 1 -10 13
+NPC 2 -14 9 20 6 1000 0 300 1 -14 9
+NPC 2 -23 9 20 6 1000 1 300 1 -23 9
+NPC 1 -25 -15 100 4 1000 1 150 1 -25 -15
+NPC 0 -11 19 30 5 1000 0 250 2 -11 19 -6 19
+NPC 3 -7 26 50 5 1500 1 1000 1 -7 26
+NPC 3 -2 29 50 5 1500 1 1000 1 -2 29
+NPC 2 6 13 20 6 1000 0 300 1 6 13
+NPC 2 -4 14 20 6 1000 0 300 1 -4 14
+NPC 2 0 19 20 6 1000 1 300 3 0 19 -2 15 2 15

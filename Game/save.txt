@@ -1,0 +1,22 @@
+Progress 0
+Weapons pistol shotgun knife
+Music 100
+Effects 100
+Difficulty normal
+Edit 0
+Up W
+Down S
+Left A
+Right D
+Shoot Space
+Sub V
+Sprint Shift
+Roll Q
+Reload R
+Swap E
+Zoom Z
+Item1 1
+Item2 2
+Item3 3
+Pause Escape
+Spawn L

@@ -1,0 +1,75 @@
+Texture	  TexStand         images/stand.png
+Texture   TexWalk          images/walk.png
+Texture   TexRoll          images/roll.png
+Texture   TexPPistol       images/p_pistol.png
+Texture   TexPSMG          images/p_smg.png
+Texture   TexPShotgun      images/p_shotgun.png
+Texture   TexPSniper       images/p_sniper.png
+Texture   TexPKnife        images/p_knife.png
+Texture   TexGrenade       images/grenade.png
+Texture   TexEPistol       images/e_pistol.png
+Texture   TexESMG          images/e_smg.png
+Texture   TexEShotgun      images/e_shotgun.png
+Texture   TexESniper       images/e_sniper.png
+Texture   TexBoss          images/boss.png
+Texture   TexBullet        images/bullet.png
+Texture   TexWall          images/wall.png
+Texture   TexFloor         images/floor.png
+Texture	  TexHealth        images/healthpack.png
+Texture   TexSpeed         images/speed.png
+Texture   TexDamage        images/damage.png
+Texture   TexAmmo          images/ammo.png
+Texture   TexBleed         images/bleed.png
+Texture   menuBackground   images/background.png
+Texture   menuLayer1       images/layer_1.png
+Texture   menuLayer2       images/layer_2.png
+Texture   menuLayer3       images/layer_3.png
+Texture   menuLayer4       images/layer_4.png
+Texture   TexBlank         images/blank.png
+Texture   TexPlat          images/platform.png
+Texture   TexPit           images/pit.png
+Texture   TexCrate         images/crate.png
+Texture   TexDeath         images/death.png
+Animation Walk             TexWalk 4 10
+Animation Stand            TexStand 1 0
+Animation Roll             TexRoll 1 0
+Animation Bullet           TexBullet 1 0
+Animation PPistol          TexPPistol 1 0
+Animation PSMG             TexPSMG 1 0
+Animation PShotgun         TexPShotgun 1 0
+Animation PSniper          TexPSniper 1 0
+Animation PKnife           TexPKnife 3 7
+Animation Grenade          TexGrenade 1 0
+Animation EPistol          TexEPistol 1 0
+Animation ESMG             TexESMG 1 0
+Animation EShotgun         TexEShotgun 1 0
+Animation ESniper          TexESniper 1 0
+Animation Boss             TexBoss 1 0
+Animation Wall             TexWall 1 0
+Animation Floor            TexFloor 1 0
+Animation HealthPack       TexHealth 1 0
+Animation Energy           TexSpeed 1 0
+Animation Booster          TexDamage 1 0
+Animation Ammo             TexAmmo 1 0
+Animation Blank            TexBlank 1 0
+Animation Platform         TexPlat 1 0
+Animation Pit              TexPit 1 0
+Animation Crate            TexCrate 1 0
+Animation Death            TexDeath 3 8
+Shader    Adrenaline       shaders/adrenaline.frag
+Shader    GunBoost         shaders/gunboost.frag
+Shader    Bleed            shaders/bleed.frag
+Sound	  Pistol           sounds/pistol.wav
+Sound     Shotgun          sounds/shotgun.wav
+Sound     Sniper           sounds/SSG.wav
+Sound     Hurt             sounds/player_umf.wav
+Sound     Reload           sounds/weapon_up.wav
+Sound     ItemGet          sounds/item_up.wav
+Sound     ItemUse          sounds/item_restore.wav
+Sound     Swing            sounds/revenant_swing.wav
+Sound     Explode          sounds/barrel_explode.wav
+Sound     MenuSelect       sounds/switch_off.wav
+Sound     MusicTitle       sounds/The_End_of_DOOM.mp3
+Sound     MusicPlay        sounds/At_Doom's_Gate.mp3
+Font      Tech             fonts/tech.ttf
+Font      Square           fonts/square_sans_serif_7.ttf
